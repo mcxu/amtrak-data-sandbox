@@ -2,7 +2,7 @@
 <gpx version="1.1" creator="S Health_0.2" n0:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1" n1:xsi="http://www.w3.org/2001/XMLSchema-instance" n1:gpx1="http://www.topografix.com/GPX/1/0" n1:ogt10="http://gpstracker.android.sogeti.n1/GPX/1/0" xmlns:n0="xsi" xmlns:n1="xmlns">
   <metadate>2021-08-08T22:15:01Z</metadate>
   <trk>
-    <name>20210808_181500_dc_to_nyc_amtrak.gpx</name>
+    <name>20210808_181500_amtrak_dc_to_nyc.gpx</name>
     <trkseg>
       <trkpt lat="38.96225" lon="-76.859985">
         <ele>24.902832</ele>

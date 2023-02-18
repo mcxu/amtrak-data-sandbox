@@ -10,7 +10,7 @@ class GPXFile:
         self.gpx_root = self.get_gpx_root(self.gpx_file_path)
         
         self.gpxColumns = ["lat", "lon", "ele", "time"]
-        self.gpxDF = pd.DataFrame(columns = self.gpxColumns)
+        self.gpxDF = pd.DataFrame(columns = self.gpxColumns, dtype=object)
 
         self.parse()
 
